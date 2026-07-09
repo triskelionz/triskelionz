@@ -11,7 +11,7 @@ AI Trainer & Software Developer focused on rule-based evaluation, structured QA,
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C%23](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -19,6 +19,7 @@ AI Trainer & Software Developer focused on rule-based evaluation, structured QA,
 ### Selected projects
 
 - [ai-response-evaluation-rubric](https://github.com/triskelionz/ai-response-evaluation-rubric) - a Python framework for scoring AI/LLM responses against structured, rule-based rubrics
+- [algorithms-and-data-structures](https://github.com/triskelionz/algorithms-and-data-structures) - graph traversal (BFS/DFS/Dijkstra), dynamic programming (knapsack, LCS), and core data structures (heap, linked list), each with complexity analysis and unit tests
 - [AnimalCardMatch-Android](https://github.com/triskelionz/AnimalCardMatch-Android) - a 2D memory/matching card game built in Unity for Android
 - [merge-sort](https://github.com/triskelionz/merge-sort), [selection-sort](https://github.com/triskelionz/selection-sort), [binary-search-tree](https://github.com/triskelionz/binary-search-tree) - algorithm implementations with worked traces and complexity analysis
 
